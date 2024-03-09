@@ -1,6 +1,3 @@
-Version = "indev-0.9.1"
-Startup = tick()
-
 local repo = 'https://github.com/violin-suzutsuki/LinoriaLib/main/'
 
 local Library = loadstring(game:HttpGet(repo .. 'Library.lua'))()
